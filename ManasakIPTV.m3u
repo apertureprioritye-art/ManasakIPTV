@@ -61,7 +61,7 @@ https://ipplaybox.fun/dookeela/amc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8
 https://monomax-2qrxos.cdn.byteark.com//fleetstream//AsianHit//index.m3u8
 
 #EXTINF:-1 tvg-chno="122" tvg-logo="" tvg-id="CNP" group-title="MOVIE",Hexa FILM HD
-http://manasakplk.3bbddns.com:29332/live/stream/
+http://manasakplk.3bbddns.com:29332/live/stream/main_stream.m3u8
 
 #EXTINF:-1 tvg-chno="123" tvg-logo="https://dookeela4.live/uploads/1706539896.png" tvg-id="TTF" group-title=" ASIAN PLUS",TRUE THAI FILM
 https://ipplaybox.fun/dookeela/truethaifilm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
