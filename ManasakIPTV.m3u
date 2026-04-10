@@ -12,79 +12,79 @@ https://ipplaybox.fun/dookeela/truefilm1/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 tvg-chno="104" tvg-logo="https://dookeela4.live/uploads/1720723122.png" tvg-id="TF2" group-title="MOVIE",TRUE FILM 2
 https://ipplaybox.fun/dookeela/truefilm2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="105" tvg-logo="https://dookeela4.live/uploads/1718690264.png" tvg-id="RKA" group-title="MOVIE",ROCK ACTION
+#EXTINF:-1 tvg-chno="105" tvg-logo="" tvg-id="CNP" group-title="MOVIE",Hexa FILM HD
+http://manasakplk.3bbddns.com:29333/stream/main_stream.m3u8
+
+#EXTINF:-1 tvg-chno="106" tvg-logo="https://dookeela4.live/uploads/1718690264.png" tvg-id="RKA" group-title="MOVIE",ROCK ACTION
 https://ipplaybox.fun/dookeela/rock-action/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="106" tvg-logo="https://dookeela4.live/uploads/1772989735.png" tvg-id="RKX" group-title="MOVIE",ROCK X STREAM
+#EXTINF:-1 tvg-chno="107" tvg-logo="https://dookeela4.live/uploads/1772989735.png" tvg-id="RKX" group-title="MOVIE",ROCK X STREAM
 https://ipplaybox.fun/dookeela/rock-xstream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="107" tvg-logo="https://dookeela4.live/uploads/1703787733.png" tvg-id="MNP" group-title="MOVIE",MONO29 PLUS
+#EXTINF:-1 tvg-chno="108" tvg-logo="https://dookeela4.live/uploads/1703787733.png" tvg-id="MNP" group-title="MOVIE",MONO29 PLUS
 https://monomax-ooleht.cdn.byteark.com//fleetstream//MonoPlus//index.m3u8
 
-#EXTINF:-1 tvg-chno="108" tvg-logo="https://dookeela4.live/uploads/1703832225.png" tvg-id="WNR" group-title="MOVIE",WARNER TV
+#EXTINF:-1 tvg-chno="109" tvg-logo="https://dookeela4.live/uploads/1703832225.png" tvg-id="WNR" group-title="MOVIE",WARNER TV
 https://ipplaybox.fun/dookeela/warnertv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="109" tvg-logo="https://dookeela4.live/uploads/1706112791.png" tvg-id="HTS" group-title="MOVIE",HITS
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://dookeela4.live/uploads/1706112791.png" tvg-id="HTS" group-title="MOVIE",HITS
 https://ipplaybox.fun/dookeela/hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="110" tvg-logo="https://dookeela4.live/uploads/1719897010.png" tvg-id="AXN" group-title="MOVIE",AXN
+#EXTINF:-1 tvg-chno="111" tvg-logo="https://dookeela4.live/uploads/1719897010.png" tvg-id="AXN" group-title="MOVIE",AXN
 https://ipplaybox.fun/dookeela/axn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="111" tvg-logo="https://dookeela4.live/uploads/1719803240.png" tvg-id="CCM" group-title="MOVIE",CCM
+#EXTINF:-1 tvg-chno="112" tvg-logo="https://dookeela4.live/uploads/1719803240.png" tvg-id="CCM" group-title="MOVIE",CCM
 https://ipplaybox.fun/dookeela/ccm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="112" tvg-logo="https://dookeela4.live/uploads/1703686191.png" tvg-id="HBO" group-title="MOVIE",HBO
+#EXTINF:-1 tvg-chno="113" tvg-logo="https://dookeela4.live/uploads/1703686191.png" tvg-id="HBO" group-title="MOVIE",HBO
 https://ipplaybox.fun/dookeela/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="113" tvg-logo="https://dookeela4.live/uploads/1703786599.png" tvg-id="HBH" group-title="MOVIE",HBO HITS
+#EXTINF:-1 tvg-chno="114" tvg-logo="https://dookeela4.live/uploads/1703786599.png" tvg-id="HBH" group-title="MOVIE",HBO HITS
 https://ipplaybox.fun/dookeela/hbo-hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="114" tvg-logo="https://dookeela4.live/uploads/1703786305.png" tvg-id="HBS" group-title="MOVIE",HBO SIGNATURE
+#EXTINF:-1 tvg-chno="115" tvg-logo="https://dookeela4.live/uploads/1703786305.png" tvg-id="HBS" group-title="MOVIE",HBO SIGNATURE
 https://ipplaybox.fun/dookeela/hbo-signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="115" tvg-logo="https://dookeela4.live/uploads/1703786776.png" tvg-id="HBF" group-title="MOVIE",HBO FAMILY
+#EXTINF:-1 tvg-chno="116" tvg-logo="https://dookeela4.live/uploads/1703786776.png" tvg-id="HBF" group-title="MOVIE",HBO FAMILY
 https://ipplaybox.fun/dookeela/hbo-family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="116" tvg-logo="https://dookeela4.live/uploads/1703786799.png" tvg-id="HBC" group-title="MOVIE",CINEMAX
+#EXTINF:-1 tvg-chno="117" tvg-logo="https://dookeela4.live/uploads/1703786799.png" tvg-id="HBC" group-title="MOVIE",CINEMAX
 https://ipplaybox.fun/dookeela/cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="117" tvg-logo="https://dookeela4.live/uploads/1741274034.png" tvg-id="YNN" group-title="MOVIE",YUNNAN TV
+#EXTINF:-1 tvg-chno="118" tvg-logo="https://dookeela4.live/uploads/1741274034.png" tvg-id="YNN" group-title="MOVIE",YUNNAN TV
 https://ipplaybox.fun/dookeela/yunnan-international/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="118" tvg-logo="https://dookeela4.live/uploads/1716339097.png" tvg-id="AMC" group-title="MOVIE",AMC
+#EXTINF:-1 tvg-chno="119" tvg-logo="https://dookeela4.live/uploads/1716339097.png" tvg-id="AMC" group-title="MOVIE",AMC
 https://ipplaybox.fun/dookeela/amc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
 
 
 
 #EXTINF:-1 tvg-chno="121" tvg-logo="https://dookeela4.live/uploads/1703829940.png" tvg-id="ASH" group-title=" ASIAN PLUS",ASIAN HITS
-https://monomax-2qrxos.cdn.byteark.com//fleetstream//AsianHit//index.m3u8
+https://monomax-2qrxos.cdn.byteark.com//fleetstream//AsianHit//index.m3u8
 
-#EXTINF:-1 tvg-chno="122" tvg-logo="" tvg-id="CNP" group-title="MOVIE",Hexa FILM HD
-http://manasakplk.3bbddns.com:29333/stream/main_stream.m3u8
-
-#EXTINF:-1 tvg-chno="123" tvg-logo="https://dookeela4.live/uploads/1706539896.png" tvg-id="TTF" group-title=" ASIAN PLUS",TRUE THAI FILM
+#EXTINF:-1 tvg-chno="122" tvg-logo="https://dookeela4.live/uploads/1706539896.png" tvg-id="TTF" group-title=" ASIAN PLUS",TRUE THAI FILM
 https://ipplaybox.fun/dookeela/truethaifilm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="124" tvg-logo="https://dookeela4.live/uploads/1719205850.png" tvg-id="TAM" group-title=" ASIAN PLUS",TRUE ASIAN MORE
+#EXTINF:-1 tvg-chno="123" tvg-logo="https://dookeela4.live/uploads/1719205850.png" tvg-id="TAM" group-title=" ASIAN PLUS",TRUE ASIAN MORE
 https://ipplaybox.fun/dookeela/trueasianmore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="125" tvg-logo="https://dookeela4.live/uploads/1719205705.png" tvg-id="TFA" group-title=" ASIAN PLUS",TRUE FILM ASIA
+#EXTINF:-1 tvg-chno="124" tvg-logo="https://dookeela4.live/uploads/1719205705.png" tvg-id="TFA" group-title=" ASIAN PLUS",TRUE FILM ASIA
 https://ipplaybox.fun/dookeela/truefilmasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="126" tvg-logo="https://dookeela4.live/uploads/1706405008.png" tvg-id="IQY" group-title=" ASIAN PLUS",IQIYI
+#EXTINF:-1 tvg-chno="125" tvg-logo="https://dookeela4.live/uploads/1706405008.png" tvg-id="IQY" group-title=" ASIAN PLUS",IQIYI
 https://ipplaybox.fun/dookeela/iqiyi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="127" tvg-logo="https://dookeela4.live/uploads/1719897483.png" tvg-id="KBW" group-title=" ASIAN PLUS",KBS WORLD
+#EXTINF:-1 tvg-chno="126" tvg-logo="https://dookeela4.live/uploads/1719897483.png" tvg-id="KBW" group-title=" ASIAN PLUS",KBS WORLD
 https://ipplaybox.fun/dookeela/kbs-world/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="128" tvg-logo="https://dookeela4.live/uploads/1703833429.png" tvg-id="TVN" group-title=" ASIAN PLUS",tvN
+#EXTINF:-1 tvg-chno="127" tvg-logo="https://dookeela4.live/uploads/1703833429.png" tvg-id="TVN" group-title=" ASIAN PLUS",tvN
 https://ipplaybox.fun/dookeela/tvn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="129" tvg-logo="https://dookeela4.live/uploads/1731890206.png" tvg-id="NHK" group-title=" ASIAN PLUS",NHK WORLD JAPAN
+#EXTINF:-1 tvg-chno="128" tvg-logo="https://dookeela4.live/uploads/1731890206.png" tvg-id="NHK" group-title=" ASIAN PLUS",NHK WORLD JAPAN
 https://ipplaybox.fun/dookeela/nhk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
-#EXTINF:-1 tvg-chno="130" tvg-logo="https://dookeela4.live/uploads/1739186052.png" tvg-id="ARR" group-title=" ASIAN PLUS",ARIRANG
+#EXTINF:-1 tvg-chno="129" tvg-logo="https://dookeela4.live/uploads/1739186052.png" tvg-id="ARR" group-title=" ASIAN PLUS",ARIRANG
 https://ipplaybox.fun/dookeela/arirang/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYsIDEx
 
 
